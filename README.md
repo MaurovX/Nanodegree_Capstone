@@ -1,6 +1,8 @@
 # Nanodegree_Capstone
  Capstone Project for Nanodegree in Data Science
  
+ Read blog post at: https://mauricio-jac2.medium.com/udacity-data-science-nanodegree-capstone-project-fd365c9ba059
+ 
 ### Table of Contents
 
 1. [Installation](#installation)
