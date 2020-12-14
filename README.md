@@ -24,7 +24,15 @@ The full set of files related to this repo are public and free of use.
 There are 2 notebooks available here to showcase work related to the project, the first notebook Credit_EDA is an EDA of the dataset, we seek to understand the dataset and to plot our insights. After that the Second notebook aims at answering the main question, how to implement explanations at the correct level of granularity. Capstone_Project.
 
 
-## Results 
+## Results / Reflection
+To recapitulate what we’ve done we:
+- Used relevant Credit Risk data from a global competition
+- Explored, and processed the data
+- Trained a Random Forest classifier and then iterated to find the best parameters
+- Displayed Variable Importance for the results
+- Implemented a Machine Learning Interpretability technique to fully explain the effect of each feature on the predicted probability using LIME
+
+The latest part seemed the most difficult. LIME is still on its early releases, it is still not fully scalable and the GUI elements from the explainer are still a bit unflexible but the power of explaining at the record level is indeed impressive.
 
 The results are rendered on an HTML file named Capstone_Project.html
 
